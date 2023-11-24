@@ -1,6 +1,4 @@
-% Author: Mustafa Ali #372704 .... Faizan Hussain #393842
-% Note: our assignment has 2 files "main.m" and "Wave.m"
-% Run "main.m" present in the zip file
+% Author: Mustafa Ali 
 
 
 %% CLASS: WAVE 
